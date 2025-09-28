@@ -2,7 +2,6 @@
 
 int* runningSum( int*, int, int* );
 void teste( const int*, int );
-void PressioneEnter( void );
 
 int main( void ) {
     int numsSize = 0, returnSize = 0;
