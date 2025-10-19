@@ -4,7 +4,7 @@
 #include <iso646.h>
 
 /* Maximum stack limit. */
-#define MAX 3
+#define MAX 10
 /* Length of the string 'name'. */
 #define TAM 30
 
